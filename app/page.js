@@ -8,7 +8,7 @@ export default function Home() {
 			<main className={styles.main}>
 				<h2>Hello, Text Bubble</h2>
 				<section>
-					<TextBubble />
+					<TextBubble text={'These are my words. Yay!!'} />
 				</section>
 			</main>
 		</div>
