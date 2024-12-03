@@ -9,6 +9,13 @@ export default function Home() {
 				<h2>Hello, Text Bubble</h2>
 				<section>
 					<TextBubble text={'These are my words. Yay!!'} />
+					<TextBubble text={'Good morning, sunshine.'} />
+					<TextBubble text={'I love pudding :-D'} />
+					<TextBubble
+						text={
+							'So much to say... So much to say... So much to say... So much to say... So much to say... '
+						}
+					/>
 				</section>
 			</main>
 		</div>
