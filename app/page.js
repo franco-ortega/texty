@@ -11,7 +11,6 @@ export default function Home() {
 					<TextBubble />
 				</section>
 			</main>
-			<footer className={styles.footer}>Footer</footer>
 		</div>
 	);
 }
