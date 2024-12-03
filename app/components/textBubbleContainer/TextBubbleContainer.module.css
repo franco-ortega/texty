@@ -1,6 +1,6 @@
 .TextBubbleContainer {
-	background-color: yellow;
-	width: fit-content;
-	padding: 3rem;
+	/* background-color: yellow; */
+	max-width: fit-content;
+	/* padding: 2rem 4rem; */
 	margin: 1rem;
 }
