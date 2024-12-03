@@ -1,0 +1,25 @@
+.TextBubbleTrail {
+	display: flex;
+	justify-content: flex-end;
+	gap: 0.5rem;
+}
+
+.TextBubbleTrail div {
+	background-color: pink;
+	border: 2px solid black;
+	border-radius: 100px;
+	width: 20px;
+	height: 20px;
+}
+
+.TextBubbleTrail div:nth-child(1) {
+	margin-top: 5px;
+}
+
+.TextBubbleTrail div:nth-child(2) {
+	margin-top: 20px;
+}
+
+.TextBubbleTrail div:nth-child(3) {
+	margin-top: 35px;
+}
